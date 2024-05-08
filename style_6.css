@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*color: #6c6b6b;*/
+}
+
+/*.main-visual {*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+  /*background-color: orange;*/
+  /*background-image: url(box1.jpg);*/
+/*}*/
+.box-jpg {
+  
+}
+.jpg1 {
+  height: 200px;
+  width: 100%;
+  background-image: url(img/box1.jpg);
+}
+
+.jpg2 {
+  height: 200px;
+  width: 100%;
+  background-image: url(img/box2.jpg);
+}
+
+.jpg3 {
+  height: 200px;
+  width: 100%;
+  background-image: url(img/box3.jpg);
+}
+
+.jpg4 {
+  height: 200px;
+  width: 100%;
+  background-image: url(img/box4.jpg);
+}
